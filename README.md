@@ -4,7 +4,7 @@
 **Ecommerce businesses often struggle to track and analyze sales, profit, and regional performance across multiple dimensions. Large datasets make it difficult to extract actionable insights. This project solves the problem by creating an **interactive Excel dashboard** that provides clear KPIs and trends for better decision-making.**  
 
 ## 👉  Dataset File 
-![Ecommerce Sale Data](https://github.com/harshgholap05/Ecommerce-Dashboard_Excel/blob/main/Dataset%20File/Ecommerce%20Sale%20Data.xlsx)  
+[Ecommerce Sale Data](https://github.com/harshgholap05/Ecommerce-Dashboard_Excel/blob/main/Dataset%20File/Ecommerce%20Sale%20Data.xlsx)  
 
 ## 📌 Key Performance Indicators (KPIs)  
 The dashboard tracks the following KPIs:  
