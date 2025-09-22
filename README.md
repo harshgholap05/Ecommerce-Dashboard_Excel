@@ -30,7 +30,7 @@ The dashboard tracks the following KPIs:
 
 ## 🛠️ Tools Used  
 - **Microsoft Excel**  
-- **Data Cleaning** (Power Query)  
+- **Data Cleaning**  
 - **Data Analysis**  
 - **Pivot Tables & Pivot Charts**
 
